@@ -6,8 +6,10 @@
   "api": "https://api-tidm.onrender.com",
   "OrgWeb": "https://topcinma.com",
    "Channels": "",
+    
     "donationIMG": "",
     "donationCODE": "",
+    "donationTYPE": "",
     
   "PopAd_URL": "https://omg10.com/4/7056731"
 }
