@@ -3,8 +3,11 @@
   "verson": "1.0",
   "Updet_URL": "",
   "Dawnloder": "1234",
-  "Website": "https://www.fasel-hd.cam",
-   "Channels": "",
+  "Fasel_Website": "https://www.fasel-hd.cam",
+   "Channels": "https://raw.githubusercontent.com/FadiCraft/TV_Chaanals/refs/heads/main/all_channels.json",
+     "Matches": "https://raw.githubusercontent.com/FadiCraft/kirozozoMAtchs/refs/heads/main/matches.json",
+     "Drama": "https://raw.githubusercontent.com/FadiCraft/cron-test/refs/heads/main/Dailymotion/Videos/Home.json",
+    
     
     "donationIMG": "",
     "donationCODE": "0xa1a2a3a4a5a6a7a8a9a10a11a12",
