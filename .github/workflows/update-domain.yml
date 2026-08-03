@@ -3,7 +3,7 @@ name: Check and Update Domain
 on:
   schedule:
     # يعمل تلقائياً كل 6 ساعات
-    - cron: '0 */6 * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch: # يسمح بتشغيله يدوياً من قائمة Actions
 
 jobs:
