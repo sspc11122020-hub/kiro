@@ -4,11 +4,13 @@
     "Updet_URL": "",
     "Dawnloder": "12345",
     "api": "https://topcinma-api.onrender.com",
+    "api2": "https://dramalive-api.onrender.com",
     "OrgWeb": "https://topcinemaa.co",
     "Channels": "",
     "donationIMG": "https://raw.githubusercontent.com/sspc11122020-hub/kiro/refs/heads/main/imgs/TNaPqENP8YwdAJTGxBFqp9WCZRaJWAt5fJ.jpeg",
     "donationCODE": "TNaPqENP8YwdAJTGxBFqp9WCZRaJWAt5fJ",
     "donationTYPE": "TRC20 Tron (TRX)",
+    "Mess": "",
     "PopAd_URL": "https://omg10.com/4/7056731"
   }
 ]
