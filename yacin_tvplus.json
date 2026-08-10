@@ -1,11 +1,14 @@
 [
   {
-  "verson": "1.0",
+  "verson": "1.1",
   "Updet_URL": "",
   "api": "https://dramalive-api.onrender.com",
   "Allow_passage": "yes",
   "Message": "",
   "Telegram": "",
+
+
+    
   "PopAd_URL": "https://omg10.com/4/7056731"
 }
 ]
