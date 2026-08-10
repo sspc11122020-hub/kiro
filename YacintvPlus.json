@@ -2,13 +2,12 @@
   {
   "verson": "1.0",
   "Updet_URL": "",
-  "api": "https://raw.githubusercontent.com/FadiCraft/kirozozoMAtchs/refs/heads/main/match1.json",
-    "Ms1": "https://raw.githubusercontent.com/sspc11122020-hub/xoxixoxi/refs/heads/main/Chanels/movies.json",
-     "Ms2": "https://raw.githubusercontent.com/sspc11122020-hub/xoxixoxi/refs/heads/main/Chanels/sport.json",
-     "Ms3": "https://raw.githubusercontent.com/sspc11122020-hub/xoxixoxi/refs/heads/main/Chanels/news.json",
-     "Ms4": "https://raw.githubusercontent.com/sspc11122020-hub/xoxixoxi/refs/heads/main/Chanels/islamic.json",
-     "Ms5": "https://raw.githubusercontent.com/sspc11122020-hub/xoxixoxi/refs/heads/main/Chanels/documentary.json",
-     "Ms6": "https://raw.githubusercontent.com/sspc11122020-hub/xoxixoxi/refs/heads/main/Chanels/kids.json",
+  "api": "https://dramalive-api.onrender.com",
+  "Allow_passage": "yes",
+  "message": "",
+  "Telegram": "",
+
+    
   
   "PopAd_URL": "https://omg10.com/4/7056731"
 }
