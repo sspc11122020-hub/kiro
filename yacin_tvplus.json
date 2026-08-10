@@ -4,11 +4,8 @@
   "Updet_URL": "",
   "api": "https://dramalive-api.onrender.com",
   "Allow_passage": "yes",
-  "message": "هذه رساله تجريبيه ",
+  "Message": "هذه رساله تجريبيه ",
   "Telegram": "https://t.me/kirozozo",
-
-    
-  
   "PopAd_URL": "https://omg10.com/4/7056731"
 }
 ]
