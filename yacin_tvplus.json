@@ -2,9 +2,10 @@
   {
   "verson": "1.2",
   "Updet_URL": "https://www.ytvplus.buzz",
-  
-    "api": "https://ytvplus2-production-4bb7.up.railway.app/yacintv",
-    "api2": "https://ideal-spirit-production-4eeb.up.railway.app/yacintv",
+
+    "api": "https://api.kirozozo.xyz/ytvplus",
+    "api2": "https://ytvplus2-production-4bb7.up.railway.app/yacintv",
+    
   "Allow_passage": "yes",
   "Message": "",
   "Telegram": "https://t.me/Yacinetv_plus",
