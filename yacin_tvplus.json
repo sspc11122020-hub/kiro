@@ -3,8 +3,8 @@
   "verson": "1.2",
   "Updet_URL": "https://www.ytvplus.buzz/p/download.html",
 
-    "api": "https://proj-production-d4bc.up.railway.app/ytvplus",
-    "api2": "https://api.kirozozo.xyz/ytvplus",
+    "api": "https://api.kirozozo.xyz/ytvplus",
+    "api2": "https://proj-production-d4bc.up.railway.app/ytvplus",
     
   "Allow_passage": "yes",
   "Message": "",
@@ -17,7 +17,8 @@
     
 
        "PopAd_URL_ForTv": "",
+    
       "PopAd_URL": "https://www.profitableratecpmnetwork.com/axfac1tw2?key=69e2b2a40aabd578784e06cf581617ed",
-  "PopAd_URL2": ""
+  "PopAd_URL2": "https://www.profitableratecpmnetwork.com/axfac1tw2?key=69e2b2a40aabd578784e06cf581617ed"
 }
 ]
